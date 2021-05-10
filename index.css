@@ -113,7 +113,7 @@ a:hover, a:active {
   margin: auto;
 }
 
-#btn {
+#btnjan, #btnfeb, #btnmar, #btnjun, #btnapr, #btnmay, #btnjul, #btnaug, #btnsep, #btnoct, #btnnov, #btndec {
   color: #fff;
   font-size: 18px;
   font-weight: 100;
